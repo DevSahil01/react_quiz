@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_quiz/static/css/main.d43d1c27.css",
+    "main.js": "/react_quiz/static/js/main.2909d311.js",
+    "static/js/496.7ab8cfb0.chunk.js": "/react_quiz/static/js/496.7ab8cfb0.chunk.js",
+    "static/media/playquiz.jpg": "/react_quiz/static/media/playquiz.15df16570ebbe99326d7.jpg",
+    "static/media/createimg.jpg": "/react_quiz/static/media/createimg.35071ba12963a4c45035.jpg",
+    "static/media/myquizimg.png": "/react_quiz/static/media/myquizimg.9555a01a49a4b633b9ea.png",
+    "static/media/firework.png": "/react_quiz/static/media/firework.857fcc2986c831dd2c8b.png",
+    "static/media/logo1.png": "/react_quiz/static/media/logo1.6d08ac51d67c26e35995.png",
+    "static/media/logo.svg": "/react_quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_quiz/index.html",
+    "main.d43d1c27.css.map": "/react_quiz/static/css/main.d43d1c27.css.map",
+    "main.2909d311.js.map": "/react_quiz/static/js/main.2909d311.js.map",
+    "496.7ab8cfb0.chunk.js.map": "/react_quiz/static/js/496.7ab8cfb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43d1c27.css",
+    "static/js/main.2909d311.js"
+  ]
+}
